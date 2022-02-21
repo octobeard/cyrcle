@@ -14,7 +14,7 @@ class Cyrcle3 : PApplet() {
 
     private val imageFileName = "cyrcle3-render.png"
     private val vectorFileName = "cyrcle3-vrender.pdf"
-    private val saveImg = true
+    private val saveImg = false
     private val saveVct = false
     private val scaleFactor = 4
 
