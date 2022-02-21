@@ -67,6 +67,6 @@ class Cyrcle1 : PApplet() {
             H.stage().paintAll(hires, false, 1f) // PGrpahics, uses3D, alpha
         }
         endRecord()
-        hires.save("render.png")
+        hires.save("render/cyrcle1.png")
     }
 }
