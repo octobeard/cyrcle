@@ -2,6 +2,9 @@ build/
 .gradle
 .idea
 
+render/*.png
+render/*.pdf
+
 .DS_Store
 
 # Compiled class file

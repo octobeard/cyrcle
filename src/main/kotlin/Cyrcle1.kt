@@ -6,7 +6,7 @@ import processing.core.PApplet
 import java.awt.Color
 
 
-class Cyrkle1 : PApplet() {
+class Cyrcle1 : PApplet() {
     lateinit var colorPool: HColorPool
     lateinit var pool: HDrawablePool
 
@@ -67,6 +67,6 @@ class Cyrkle1 : PApplet() {
             H.stage().paintAll(hires, false, 1f) // PGrpahics, uses3D, alpha
         }
         endRecord()
-        hires.save("render.png")
+        hires.save("render/cyrcle1.png")
     }
 }
