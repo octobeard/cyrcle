@@ -6,7 +6,7 @@ import processing.core.PApplet
 import java.awt.Color
 
 
-class Cyrkle1 : PApplet() {
+class Cyrcle1 : PApplet() {
     lateinit var colorPool: HColorPool
     lateinit var pool: HDrawablePool
 
